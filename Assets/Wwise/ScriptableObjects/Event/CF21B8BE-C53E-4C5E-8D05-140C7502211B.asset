@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 279773c7fc5fd154a8a37ea3d45aae79, type: 3}
+  m_Name: CF21B8BE-C53E-4C5E-8D05-140C7502211B
+  m_EditorClassIdentifier: 
+  objectName: Play_Shroom_damage
+  id: 1212626698
+  guid: CF21B8BE-C53E-4C5E-8D05-140C7502211B

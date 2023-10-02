@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="iOS" BasePlatform="iOS" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>D:\hazi\FHSTP\Semester_4\Engine-based Cross Reality Development\Assignments\Assignment2\projectv0.7\projectv0.7_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\hazi\FHSTP\Semester_4\Engine-based Cross Reality Development\Assignments\Assignment2\projectv0.7\projectv0.7_WwiseProject\.cache\iOS\</SourceFilesRoot>
+		<SoundBanksRoot>D:\hazi\FHSTP\Semester_4\Engine-based Cross Reality Development\Assignments\Assignment2\projectv0.7\projectv0.7_WwiseProject\GeneratedSoundBanks\iOS\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\hazi\FHSTP\Semester_4\Engine-based Cross Reality Development\Assignments\Assignment2\projectv0.7\projectv0.7_WwiseProject\GeneratedSoundBanks\iOS</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="29489552" Language="SFX" Hash="2511243036">
+			<ObjectPath>\SoundBanks\Default Work Unit\SoundBank_Main</ObjectPath>
+			<ShortName>SoundBank_Main</ShortName>
+			<Path>SoundBank_Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4093367312" Name="Play_breathing" ObjectPath="\Events\Default Work Unit\Play_breathing" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="56042718" Language="SFX">
+							<ShortName>breathing.wav</ShortName>
+							<Path>SFX\breathing_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="834484997">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

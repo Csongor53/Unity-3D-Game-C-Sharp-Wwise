@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Ambience" ID="{8DAAF1C4-3902-4EE3-A8BE-FF5FF35C76B4}" ShortID="693709165">
+					<ChildrenList>
+						<Event Name="Play_Forrest_field_spring_sounds" ID="{AF9039AF-985A-4F50-952C-70079F1C1275}">
+							<ChildrenList>
+								<Action Name="" ID="{41E8D021-4B7A-40BE-9681-2E44FF2581AB}" ShortID="647958293">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Forrest field spring sounds" ID="{9FFDE63B-3E1C-4EAB-8B4B-DFE25E9D60E6}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Crowd_at_Cafeteria" ID="{BD21C76A-D19B-41FE-B2AB-5075A1F97552}">
+							<ChildrenList>
+								<Action Name="" ID="{D8A9667D-712D-4CB8-9E91-55F0CF3C1642}" ShortID="449398949">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Crowd at Cafeteria" ID="{185A9610-88CC-4B2E-8D20-DC8933296A64}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Car" ID="{2431C6CC-8754-43AB-A4AA-DFE36A4B4D40}" ShortID="819132709">
+					<ChildrenList>
+						<Event Name="Play_engine_idle_van_diesel_CBC_microwave_truck3_winter_with_heater_noise_close_flac" ID="{DE0B0730-3892-4E56-946F-14F1BBBA94E9}">
+							<ChildrenList>
+								<Action Name="" ID="{51825F93-D215-4AFB-8B0A-9A63120B7E91}" ShortID="234301570">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="engine idle van diesel CBC microwave truck3 winter with heater noise close_flac" ID="{593DD14D-E35E-4D8F-9953-074C1A1ED548}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Player" ID="{86D2A0E3-DAB7-4A61-A55C-A53CA11C64D0}" ShortID="334989086">
+					<ChildrenList>
+						<Event Name="Play_breathing" ID="{F6DDCDD5-097E-4D20-A6CE-BE512A685F2E}">
+							<ChildrenList>
+								<Action Name="" ID="{1385BA3C-678A-41EB-836C-9132913AD2BC}" ShortID="751823847">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="breathing" ID="{B7816CF4-453C-44C4-9EBC-FE6E69803FE7}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Damage_taken" ID="{47BCA3E8-4150-4A78-8EA3-C92C77E2CE9D}">
+							<ChildrenList>
+								<Action Name="" ID="{BF546CE4-EBDC-43F1-BD69-E7486A887063}" ShortID="601413811">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Damage taken" ID="{BABA08FA-D7E5-4964-B905-F1C564CC9D45}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Hitmarker_Sound_Effect" ID="{ADA4070F-D65C-4F96-AD1B-C6E0823E0652}">
+							<ChildrenList>
+								<Action Name="" ID="{DFF57CCB-9DFB-4261-A0FC-8C87C40EDD0C}" ShortID="166520353">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Hitmarker Sound Effect" ID="{794E99D6-F908-41E1-ABD7-78F6BF2C63DD}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Shooting" ID="{2C150203-CEB7-4F49-822B-D830D5599D84}">
+							<ChildrenList>
+								<Action Name="" ID="{65C16000-16C3-4592-BA05-BC6C4885139B}" ShortID="364407597">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Shooting" ID="{B0F83F2E-18A2-46DC-A2DA-04FF62A23222}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Player movement" ID="{938E54DA-39B8-411E-8A6D-9A31ACEA1E35}" ShortID="273541019">
+					<ChildrenList>
+						<Event Name="Play_SFX_Jump_07" ID="{4C9E9D0B-3C08-47A3-819E-6F8F0EAC42AB}">
+							<ChildrenList>
+								<Action Name="" ID="{1E7490A4-DEA7-4633-992F-82BA9983BB7C}" ShortID="843194373">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_Jump_07" ID="{EFF147BD-12C0-4FD0-9FED-B48339C078EE}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Footsteps_container" ID="{931DD569-246C-4770-BB45-B14E5F5ABB2E}">
+							<ChildrenList>
+								<Action Name="" ID="{1DFB999C-D5FD-4F54-ACDA-0B754ED9E150}" ShortID="950674333">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Footsteps container" ID="{3E5EEB3D-933A-40C6-B302-0D64109D20AA}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Indoor_steps" ID="{A9722AD6-E5C5-458D-AE68-68624158FA82}">
+							<ChildrenList>
+								<Action Name="" ID="{F6542CF7-626B-4E48-8629-86C701F134A7}" ShortID="497648003">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Indoor steps" ID="{818A5172-1CCF-4BFA-87FC-87B2EBC52460}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Shrooms" ID="{1FA5971E-E27A-41C7-8E93-17803E63015C}" ShortID="946986250">
+					<ChildrenList>
+						<Event Name="Play_Flower_chomp" ID="{DE0C1ABE-6859-4903-88A0-B01C3C1B8295}">
+							<ChildrenList>
+								<Action Name="" ID="{036B7C4D-3A6D-4520-BCD6-62D674CED14F}" ShortID="151546168">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Flower chomp" ID="{45898883-F049-47FC-AF9E-4204D87D6184}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Shroom_damage" ID="{CF21B8BE-C53E-4C5E-8D05-140C7502211B}">
+							<ChildrenList>
+								<Action Name="" ID="{EB8EEF81-5213-409B-BE8E-05D3E4016654}" ShortID="822704654">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Shroom damage" ID="{428F8171-0859-4662-A10A-4709E1D2E11D}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Collectable" ID="{C4ABE546-36AA-4453-A1DB-8F3715423CC9}" ShortID="26855091">
+					<ChildrenList>
+						<Event Name="Play_FX_Mario_Coin__JH_" ID="{FECCDEDC-283C-4555-BA48-3353CDA30289}">
+							<ChildrenList>
+								<Action Name="" ID="{2D1EE6B6-22D2-4FEB-B3C8-9E2116D78D14}" ShortID="986921354">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="FX Mario Coin (JH)" ID="{017BBC52-D6A7-447A-9A2C-B047E44FEC7C}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Music" ID="{756AF0AC-8779-4409-AEDB-64A9934DEF0D}" ShortID="94677851">
+					<ChildrenList>
+						<Event Name="Play_star_wars_cantina192k" ID="{EFC5A939-FECE-499D-8AB3-81DF47591527}">
+							<ChildrenList>
+								<Action Name="" ID="{DF93AB6F-F33A-4931-B318-7353183CDC86}" ShortID="177440367">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="star wars cantina192k" ID="{E0CA6B95-4B09-41B3-8CA6-B6ABCAC896E2}" WorkUnitID="{447FEB26-A64B-489A-BADF-C37B7D848FCC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

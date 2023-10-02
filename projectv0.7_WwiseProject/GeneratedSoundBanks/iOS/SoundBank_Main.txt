@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4093367312	Play_breathing			\Default Work Unit\Play_breathing	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	56042718	breathing	D:\hazi\FHSTP\Semester_4\Engine-based Cross Reality Development\Assignments\Assignment2\projectv0.7\projectv0.7_WwiseProject\.cache\iOS\SFX\breathing_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\breathing		573976
+

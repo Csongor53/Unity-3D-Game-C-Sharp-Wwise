@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{414F24E3-E84E-4CAA-B878-711E85F9ECC8}" SchemaVersion="103">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{414F24E3-E84E-4CAA-B878-711E85F9ECC8}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Indoor Mixing Session" ID="{DDE37A72-470B-4CC4-8722-0D183576B60B}">
+					<ObjectList>
+						<ObjectRef Name="Footsteps In" ID="{994715A6-E8FB-42A9-9200-57A2A0FAA02B}" WorkUnitID="{257AD874-B541-40A2-A0F2-C9F10ECD974E}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

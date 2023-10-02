@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e401b0fe228af1242b379eda7790c2f6, type: 3}
+  m_Name: 520043DC-3A56-4731-A104-EABDF820CD59
+  m_EditorClassIdentifier: 
+  objectName: Dirt
+  id: 2195636714
+  guid: 520043DC-3A56-4731-A104-EABDF820CD59
+  WwiseSwitchGroupReference: {fileID: 11400000, guid: 1c43ef62b967af646a03529df74b0c1d, type: 2}

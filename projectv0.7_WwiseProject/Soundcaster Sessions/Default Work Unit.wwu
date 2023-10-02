@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1715BD4D-4776-4C0B-AD6A-D3FABFB9507F}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{1715BD4D-4776-4C0B-AD6A-D3FABFB9507F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Indoor Soundcaster Session" ID="{C3A64369-9524-4D35-B558-F9261F4423CD}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Indoor_steps" ID="{A9722AD6-E5C5-458D-AE68-68624158FA82}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Dirt" ID="{520043DC-3A56-4731-A104-EABDF820CD59}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

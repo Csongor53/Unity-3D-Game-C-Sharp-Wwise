@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{544875E2-6CE9-4E42-802A-9E69B5C8BE9B}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{544875E2-6CE9-4E42-802A-9E69B5C8BE9B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SoundBank_Main" ID="{4DE5B3A7-459F-4B5E-918E-74409E62C0B2}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player movement" ID="{938E54DA-39B8-411E-8A6D-9A31ACEA1E35}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shrooms" ID="{1FA5971E-E27A-41C7-8E93-17803E63015C}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Crowd_at_Cafeteria" ID="{BD21C76A-D19B-41FE-B2AB-5075A1F97552}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Car" ID="{2431C6CC-8754-43AB-A4AA-DFE36A4B4D40}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Collectable" ID="{C4ABE546-36AA-4453-A1DB-8F3715423CC9}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FX_Mario_Coin__JH_" ID="{FECCDEDC-283C-4555-BA48-3353CDA30289}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Indoor_steps" ID="{A9722AD6-E5C5-458D-AE68-68624158FA82}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Footsteps_container" ID="{931DD569-246C-4770-BB45-B14E5F5ABB2E}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SFX_Jump_07" ID="{4C9E9D0B-3C08-47A3-819E-6F8F0EAC42AB}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Flower_chomp" ID="{DE0C1ABE-6859-4903-88A0-B01C3C1B8295}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_star_wars_cantina192k" ID="{EFC5A939-FECE-499D-8AB3-81DF47591527}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player" ID="{86D2A0E3-DAB7-4A61-A55C-A53CA11C64D0}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Damage_taken" ID="{47BCA3E8-4150-4A78-8EA3-C92C77E2CE9D}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Shroom_damage" ID="{CF21B8BE-C53E-4C5E-8D05-140C7502211B}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_breathing" ID="{F6DDCDD5-097E-4D20-A6CE-BE512A685F2E}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_engine_idle_van_diesel_CBC_microwave_truck3_winter_with_heater_noise_close_flac" ID="{DE0B0730-3892-4E56-946F-14F1BBBA94E9}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambience" ID="{8DAAF1C4-3902-4EE3-A8BE-FF5FF35C76B4}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Shooting" ID="{2C150203-CEB7-4F49-822B-D830D5599D84}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Forrest_field_spring_sounds" ID="{AF9039AF-985A-4F50-952C-70079F1C1275}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Hitmarker_Sound_Effect" ID="{ADA4070F-D65C-4F96-AD1B-C6E0823E0652}" WorkUnitID="{B53CE454-BE13-441F-9B7C-9186EF86C04A}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
